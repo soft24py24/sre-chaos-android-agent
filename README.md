@@ -1,5 +1,12 @@
 # SRE Chaos Agent for Android
-## ![Preview](assets/Screen_2026-06-10-20-34-57-711_ru.iiec.pydroid3.jpg)
+## 
+
+<details>
+  <summary>🖼️ Показать скриншот (нажми на стрелку)</summary>
+
+  ![Screenshot](assets/Screen_2026-06-10-20-34-57-711_ru.iiec.pydroid3.jpg)
+</details>
+
 An Android application for stress testing and real-time monitoring of your device (battery, temperature, voltage, CPU load). Built with Kivy and jnius.
 
 ## Features
